@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/MomenMuhammad/wordpress-docker)](https://github.com/MomenMuhammad/wordpress-docker/blob/master/LICENSE)
 
 # Basic Docker Environment For Wordpress
-Basic Docker Configuration for laravel project
+Basic Docker Configuration for wordpress project
 
 # Docker Images Included
 - wordpress:5.8.2-php8.0-apache
