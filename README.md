@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/MomenMuhammad/wordpress-docker)](https://github.com/MomenMuhammad/wordpress-docker/stargazers)
 [![GitHub license](https://img.shields.io/github/license/MomenMuhammad/wordpress-docker)](https://github.com/MomenMuhammad/wordpress-docker/blob/master/LICENSE)
 
-# Basic Docker Environment For Laravel
+# Basic Docker Environment For Wordpress
 Basic Docker Configuration for laravel project
 
 # Docker Images Included
